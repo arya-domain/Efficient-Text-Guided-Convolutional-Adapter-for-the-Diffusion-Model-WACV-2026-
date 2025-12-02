@@ -68,9 +68,3 @@ If you find this work useful, please cite:
   year={2026}
 }
 ```
-
-## References
-
-- Rombach et al. "High-Resolution Image Synthesis with Latent Diffusion Models" (CVPR 2022)
-- Mou et al. "T2I-Adapter: Learning Adapters to Drive Pretrained Models in Text-to-Image Generation" (arXiv 2023)
-- Dosovitskiy et al. "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale" (ICLR 2021)
